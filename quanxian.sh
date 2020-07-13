@@ -1,6 +1,6 @@
 #!/bin/bash
-file="/opt"
-if [-x file]
+file="/git_file/test_01"
+if [ -x $file ]
 then
 	echo "有执行权限"
 else

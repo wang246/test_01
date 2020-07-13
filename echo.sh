@@ -1,4 +1,5 @@
 #!/bin/bash
-# read a
-# echo "$a it is test"
+echo "请输入一个值"
+read a
+echo "$a it is test"
 echo `date`

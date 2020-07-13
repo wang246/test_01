@@ -1,4 +1,4 @@
-#!/bini/bash
+#!/bin/bash
 funfile ()
 {	
 	echo "这个函数是求和函数"
